@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.projectzombie.dynamic_regions.utilities;
+package net.projectzombie.dynamicregions.utilities;
 
 import java.util.Arrays;
 import java.util.LinkedList;

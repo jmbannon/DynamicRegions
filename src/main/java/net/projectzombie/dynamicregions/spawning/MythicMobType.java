@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.projectzombie.dynamic_regions.spawning;
+package net.projectzombie.dynamicregions.spawning;
 
-import net.projectzombie.dynamic_regions.utilities.Coordinate;
+import net.projectzombie.dynamicregions.utilities.Coordinate;
 import org.bukkit.Bukkit;
 import org.bukkit.block.Block;
 

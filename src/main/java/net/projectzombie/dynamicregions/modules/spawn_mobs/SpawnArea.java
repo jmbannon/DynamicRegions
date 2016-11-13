@@ -3,17 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.projectzombie.dynamic_regions.modules.spawn_mobs;
+package net.projectzombie.dynamicregions.modules.spawn_mobs;
 
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.LinkedList;
-import net.projectzombie.dynamic_regions.modules.RegionModule;
-import static net.projectzombie.dynamic_regions.modules.spawn_mobs.CollisionOffsetTests.*;
-import net.projectzombie.dynamic_regions.spawning.MythicMobType;
-import net.projectzombie.dynamic_regions.utilities.Coordinate;
-import net.projectzombie.dynamic_regions.utilities.PlayerMethods;
-import net.projectzombie.dynamic_regions.world.DRWorld;
+import net.projectzombie.dynamicregions.modules.RegionModule;
+import static net.projectzombie.dynamicregions.modules.spawn_mobs.CollisionOffsetTests.*;
+import net.projectzombie.dynamicregions.spawning.MythicMobType;
+import net.projectzombie.dynamicregions.utilities.Coordinate;
+import net.projectzombie.dynamicregions.utilities.PlayerMethods;
+import net.projectzombie.dynamicregions.world.DRWorld;
 import org.bukkit.World;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;

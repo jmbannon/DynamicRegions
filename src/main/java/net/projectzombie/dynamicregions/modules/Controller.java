@@ -3,18 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.projectzombie.dynamic_regions.modules;
+package net.projectzombie.dynamicregions.modules;
 
 import com.sk89q.worldguard.protection.managers.RegionManager;
-import net.projectzombie.dynamic_regions.modules.spawn_mobs.SpawnSkycraper;
-import net.projectzombie.dynamic_regions.modules.spawn_mobs.SpawnFlat;
+import net.projectzombie.dynamicregions.modules.spawn_mobs.SpawnSkycraper;
+import net.projectzombie.dynamicregions.modules.spawn_mobs.SpawnFlat;
 import java.util.ArrayList;
-import java.util.logging.Level;
-import net.projectzombie.dynamic_regions.modules.environment.ColdFront;
-import net.projectzombie.dynamic_regions.modules.environment.FreezingWater;
-import net.projectzombie.dynamic_regions.modules.environment.Radiation;
-import net.projectzombie.dynamic_regions.utilities.PlayerTrail;
-import net.projectzombie.dynamic_regions.world.DRWorld;
+
+import net.projectzombie.dynamicregions.modules.environment.ColdFront;
+import net.projectzombie.dynamicregions.modules.environment.FreezingWater;
+import net.projectzombie.dynamicregions.modules.environment.Radiation;
+import net.projectzombie.dynamicregions.utilities.PlayerTrail;
+import net.projectzombie.dynamicregions.world.DRWorld;
 import org.bukkit.Bukkit;
 import org.bukkit.World;
 import org.bukkit.plugin.Plugin;

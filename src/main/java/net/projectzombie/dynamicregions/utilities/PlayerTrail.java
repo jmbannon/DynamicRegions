@@ -3,13 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.projectzombie.dynamic_regions.utilities;
+package net.projectzombie.dynamicregions.utilities;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
-import net.projectzombie.dynamic_regions.world.DRWorld;
+import net.projectzombie.dynamicregions.world.DRWorld;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 

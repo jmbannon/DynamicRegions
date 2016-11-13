@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.projectzombie.dynamic_regions.modules.environment;
+package net.projectzombie.dynamicregions.modules.environment;
 
 import java.util.Random;
-import net.projectzombie.dynamic_regions.modules.Controller;
-import net.projectzombie.dynamic_regions.world.DRWorld;
+import net.projectzombie.dynamicregions.modules.Controller;
+import net.projectzombie.dynamicregions.world.DRWorld;
 import org.bukkit.Bukkit;
 import org.bukkit.World;
 import org.bukkit.entity.Player;

@@ -1,5 +1,5 @@
 name: DynamicRegions
-main: net.projectzombie.dynamic_regions.main.Main
+main: net.projectzombie.dynamicregions.main.Main
 version: 1.0
 depend: [WorldEdit,WorldGuard,MythicMobs]
 commands:

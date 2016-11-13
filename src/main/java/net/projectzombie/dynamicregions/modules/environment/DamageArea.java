@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.projectzombie.dynamic_regions.modules.environment;
+package net.projectzombie.dynamicregions.modules.environment;
 
-import net.projectzombie.dynamic_regions.modules.RegionModule;
+import net.projectzombie.dynamicregions.modules.RegionModule;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.World;

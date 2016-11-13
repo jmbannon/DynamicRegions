@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.projectzombie.dynamic_regions.modules;
+package net.projectzombie.dynamicregions.modules;
 
 import com.sk89q.worldguard.protection.ApplicableRegionSet;
 import com.sk89q.worldguard.protection.managers.RegionManager;
 import com.sk89q.worldguard.protection.regions.ProtectedRegion;
-import net.projectzombie.dynamic_regions.utilities.PlayerMethods;
-import net.projectzombie.dynamic_regions.world.DRWorld;
+import net.projectzombie.dynamicregions.utilities.PlayerMethods;
+import net.projectzombie.dynamicregions.world.DRWorld;
 import org.bukkit.GameMode;
 import org.bukkit.World;
 import org.bukkit.entity.Player;

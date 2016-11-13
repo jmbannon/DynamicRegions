@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.projectzombie.dynamic_regions.main;
+package net.projectzombie.dynamicregions.main;
 
-import net.projectzombie.dynamic_regions.modules.Controller;
+import net.projectzombie.dynamicregions.modules.Controller;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**
